@@ -1,0 +1,10 @@
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Desafio1forms\Desafio1forms\bin\Debug\Desafio1forms.exe.config
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Desafio1forms\Desafio1forms\bin\Debug\Desafio1forms.exe
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Desafio1forms\Desafio1forms\bin\Debug\Desafio1forms.pdb
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Desafio1forms\Desafio1forms\obj\Debug\Desafio1forms.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Desafio1forms\Desafio1forms\obj\Debug\Desafio1forms.Form1.resources
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Desafio1forms\Desafio1forms\obj\Debug\Desafio1forms.Properties.Resources.resources
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Desafio1forms\Desafio1forms\obj\Debug\Desafio1forms.csproj.GenerateResource.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Desafio1forms\Desafio1forms\obj\Debug\Desafio1forms.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Desafio1forms\Desafio1forms\obj\Debug\Desafio1forms.exe
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Desafio1forms\Desafio1forms\obj\Debug\Desafio1forms.pdb

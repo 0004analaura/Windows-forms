@@ -1,0 +1,10 @@
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Prestamos\Prestamos\bin\Debug\Prestamos.exe.config
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Prestamos\Prestamos\bin\Debug\Prestamos.exe
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Prestamos\Prestamos\bin\Debug\Prestamos.pdb
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Prestamos\Prestamos\obj\Debug\Prestamos.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Prestamos\Prestamos\obj\Debug\Prestamos.Form1.resources
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Prestamos\Prestamos\obj\Debug\Prestamos.Properties.Resources.resources
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Prestamos\Prestamos\obj\Debug\Prestamos.csproj.GenerateResource.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Prestamos\Prestamos\obj\Debug\Prestamos.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Prestamos\Prestamos\obj\Debug\Prestamos.exe
+C:\Users\georg\Desktop\UNIVERSIDAD\WINDOWS FORMS\Prestamos\Prestamos\obj\Debug\Prestamos.pdb

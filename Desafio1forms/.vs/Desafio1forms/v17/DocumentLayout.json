@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\WINDOWS FORMS\\Desafio1forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2EF813-FA9C-49EB-AD6D-5367F25C9577}|Desafio1forms\\Desafio1forms.csproj|c:\\users\\georg\\desktop\\universidad\\windows forms\\desafio1forms\\desafio1forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC2EF813-FA9C-49EB-AD6D-5367F25C9577}|Desafio1forms\\Desafio1forms.csproj|solutionrelative:desafio1forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC2EF813-FA9C-49EB-AD6D-5367F25C9577}|Desafio1forms\\Desafio1forms.csproj|C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\WINDOWS FORMS\\Desafio1forms\\desafio1forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC2EF813-FA9C-49EB-AD6D-5367F25C9577}|Desafio1forms\\Desafio1forms.csproj|solutionrelative:desafio1forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\WINDOWS FORMS\\Desafio1forms\\Desafio1forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Desafio1forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\WINDOWS FORMS\\Desafio1forms\\Desafio1forms\\Form1.cs",
+              "RelativeToolTip": "Desafio1forms\\Form1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:46:37.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\WINDOWS FORMS\\Desafio1forms\\Desafio1forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Desafio1forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\WINDOWS FORMS\\Desafio1forms\\Desafio1forms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Desafio1forms\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:21:41.439Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

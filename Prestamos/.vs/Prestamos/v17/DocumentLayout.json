@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\WINDOWS FORMS\\Prestamos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C007AA-07FB-4669-A023-44C4100908FB}|Prestamos\\Prestamos.csproj|C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\WINDOWS FORMS\\Prestamos\\prestamos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2C007AA-07FB-4669-A023-44C4100908FB}|Prestamos\\Prestamos.csproj|solutionrelative:prestamos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C007AA-07FB-4669-A023-44C4100908FB}|Prestamos\\Prestamos.csproj|c:\\users\\georg\\desktop\\universidad\\windows forms\\prestamos\\prestamos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C007AA-07FB-4669-A023-44C4100908FB}|Prestamos\\Prestamos.csproj|solutionrelative:prestamos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\WINDOWS FORMS\\Prestamos\\Prestamos\\Form1.cs",
+              "RelativeDocumentMoniker": "Prestamos\\Form1.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\WINDOWS FORMS\\Prestamos\\Prestamos\\Form1.cs",
+              "RelativeToolTip": "Prestamos\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwB8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:39:50.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\WINDOWS FORMS\\Prestamos\\Prestamos\\Form1.cs",
+              "RelativeDocumentMoniker": "Prestamos\\Form1.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\WINDOWS FORMS\\Prestamos\\Prestamos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Prestamos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:38:50.318Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
